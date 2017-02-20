@@ -47,7 +47,7 @@ $preset = @(
 
 	### UI Tweaks ###
 	"DisableActionCenter",          # "EnableActionCenter",
-	"DisableLockScreen",            # "EnableLockScreen",
+	# "DisableLockScreen",            "EnableLockScreen",
 	# "DisableLockScreenRS1",       # "EnableLockScreenRS1",
 	"DisableStickyKeys",            # "EnableStickyKeys",
 	"HideTaskbarSearchBox",         # "ShowTaskbarSearchBox",
@@ -66,7 +66,7 @@ $preset = @(
 	# "HidePicturesFromThisPC",       # "ShowPicturesInThisPC",
 	# "HideVideosFromThisPC",         # "ShowVideosInThisPC",
 	# "AddENKeyboard",              # "RemoveENKeyboard",
-	# "EnableNumlock",              # "DisableNumlock",
+	 "EnableNumlock",              # "DisableNumlock",
 
 	### Application Tweaks ###
 	"DisableOneDrive",              # "EnableOneDrive",
