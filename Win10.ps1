@@ -53,7 +53,7 @@ $preset = @(
 	"HideTaskbarSearchBox",         # "ShowTaskbarSearchBox",
 	"HideTaskView",                 # "ShowTaskView",
 	# "ShowSmallTaskbarIcons",        # "ShowLargeTaskbarIcons",
-	"ShowTaskbarTitles",            # "HideTaskbarTitles",
+	# "ShowTaskbarTitles",            # "HideTaskbarTitles",
 	# "ShowTrayIcons",                # "HideTrayIcons",
 	"ShowKnownExtensions",          # "HideKnownExtensions",
 	"ShowHiddenFiles",              # "HideHiddenFiles",
